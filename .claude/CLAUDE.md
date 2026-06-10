@@ -5,7 +5,7 @@ You are working on **devtools-engine**, a multi-service AI development platform 
 ## Project Overview
 
 - **Python API** (FastAPI): REST/GraphQL APIs, ML model serving
-- **Node.js Services** (Express): Real-time orchestration, WebSocket handlers
+- **Node.js Services** (Express): Real-time orchestration, WebSocket handlers   
 - **Go Scanner** (Gin): Security and code analysis
 - **Java Analytics** (Spring Boot): Metrics, reporting, aggregation
 - **C# Core** (ASP.NET Core): Business logic, plugin framework
